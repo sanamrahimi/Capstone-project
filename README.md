@@ -50,7 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sanamrahimi.github.io/capstone-project1/)
+- [Live Demo Link](https://sanamrahimi.github.io/Capstone-project/)
 
 
 - [more information in my loom video ]()
