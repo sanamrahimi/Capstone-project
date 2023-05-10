@@ -1,9 +1,6 @@
 # Capstone-project
 
 
-# capstone-project1
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -27,7 +24,7 @@
 
 # 📖 HTML/CSS & JavaScript capstone project - Conference page <a name="about-project"></a>
 
-**First capstone project** is a web page where you can find information about Dreams Soar Events on 2023<br>
+**First capstone project** is a web page where you can find information Creative Commons Gloable Summit 2015<br>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -157,7 +154,7 @@ Multimedia and content changes were made in this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/sanamrahimi/capstone-project1/blob/devlop/LICENSE) licensed. 
+This project is [MIT](https://github.com/sanamrahimi/Capstone-project/blob/main/LICENSE) licensed. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
