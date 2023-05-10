@@ -8,7 +8,7 @@
 }
 
 .background {
-  background-image: url(img/header.png);
+  background-image: url('img/header.png');
 }
 
 .container-bg {
