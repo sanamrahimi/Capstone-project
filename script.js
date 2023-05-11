@@ -31,7 +31,6 @@ mobMenu.addEventListener('click', () => {
   cancelClickHandle();
 });
 
-// Generating feature data
 const speakerData = [
   {
     name: 'Yoachi Benkler',
@@ -76,13 +75,11 @@ const speakerData = [
   },
 ];
 
-// Adding Features to the feature speaker
 const addFt = () => {
   const featureContainer = document.querySelector('.feature-speakers');
   const featureUl = document.createElement('ul');
   let i = 1;
   speakerData.forEach((el) => {
-    // fUl.classList.add();
     const fLi = document.createElement('li');
     fLi.classList.add('ft');
     if (i > 2) {
